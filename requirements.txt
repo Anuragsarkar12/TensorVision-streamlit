@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 numpy==2.0.0
 opencv_python==4.10.0.84
+=======
+numpy>=1.21.2,<2.0.0
+opencv_python==4.9.0.80
+>>>>>>> b0da824eb4dbc7fc4cfd57c9e575fa2f3949b3f2
 Pillow==10.3.0
 streamlit==1.35.0
 tensorflow==2.16.1
-tensorflow_intel==2.16.1
+
